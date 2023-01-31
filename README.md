@@ -28,3 +28,10 @@ Hence we use the following algorithm to train our model. The below pipeline is a
   E0-- Sample=old_samples + new_samples -->C0
   
 ```
+### Computing Support
+<div> 
+<ol>
+  <li>We thank Google TPU Research Cloud (TRC) program for supporting us with the computing resources(TPU)</li>
+  <li>We thank Shubhankar Mishra Lab for supporting us with the GPU resources </li>
+</ol>
+</div>
